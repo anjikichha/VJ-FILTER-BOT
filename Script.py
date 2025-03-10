@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚡️Join :- @AKKicchaMovies1</b>""" 
+<b>⚡️Join :- @AK_Kiccha1</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
